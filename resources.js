@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         !) Epic Dependencies
-// @namespace    http://tampermonkey.net/
+// @name         !) Epic Resources
+// @namespace    https://mope.io
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Gives certain resources to my scripts.
+// @author       Epic#1708
 // @match        *://*.mope.io/*
 // @grant        none
 // ==/UserScript==
