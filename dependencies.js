@@ -10,6 +10,8 @@
 
 var oldV;
 
+window.epicDepend = true;
+
 function checkClient(callBack) {
     typeof Animal != 'undefined' ? setTimeout(callBack,100) : setTimeout(checkClient,100,callBack);
 }
