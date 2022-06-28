@@ -84,3 +84,5 @@ var utils = {
 
     propArr: (str) => str.replace(/\[\((['"])((?![^_a-zA-Z$])[\w$]*)['"]\)\]/gi, '[$1$2$1]'),
 };
+
+window.evalFunc = true;
